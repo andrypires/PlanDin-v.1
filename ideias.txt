@@ -1,0 +1,10 @@
+Ideias para o planner financeiro 
+
+nome: Calc...
+Plandin
+
+Calcular gastos fixos
+Calcular gastos comuns
+Pedir para o usuário estipular um gasto máximo ao mês
+Separar os gastos por forma de pagamento
+Dividir por seções, tipo mercado, farmácia etc.
